@@ -86,7 +86,7 @@ header{
 .proyectos{
     width: 60%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .card{
     text-align: center;
