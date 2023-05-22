@@ -89,13 +89,13 @@ header{
     justify-content: space-evenly;
 } 
 
-/*  .proyectos{
+.proyectos{
      flex-direction: column;
      width: 100%;
      align-items: center;
      justify-content: space-evenly;
      padding-bottom: 20px;
-    } */
+    } 
 
 .card{
     text-align: center;
