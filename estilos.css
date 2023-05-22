@@ -83,19 +83,19 @@ header{
     align-items: center;
     color: #F2F2F2;
 }
-/* .proyectos{
+.proyectos{
     width: 60%;
     display: flex;
     justify-content: space-evenly;
-} */
+} 
 
- .proyectos{
+/*  .proyectos{
      flex-direction: column;
      width: 100%;
      align-items: center;
      justify-content: space-evenly;
      padding-bottom: 20px;
-    }
+    } */
 
 .card{
     text-align: center;
