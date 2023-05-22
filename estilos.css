@@ -86,7 +86,7 @@ header{
 .proyectos{
     width: 60%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .card{
     text-align: center;
@@ -149,13 +149,7 @@ footer{
     .tres{
         height: auto;
     }
-    .proyectos{
-        flex-direction: column;
-        width: 100%;
-        align-items: center;
-        justify-content: space-between;
-        padding-bottom: 20px;
-    }
+    
     .card{
         width: 80%;
         margin-top: 20px;
