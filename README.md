@@ -2,9 +2,4 @@
 
 ## Pedro Carbonó
 
-¡Hola! Soy Javascript Developer Junior y vivo en Colombia.
-Quisiera contarte un poco sobre las habilidades y los logros que he alcanzado hasta este momento.
-
-## Sobre mi
-
-Soy estudiante autodidacta de programación desde junio de 2022. He realizado algunos cursos como HTM, CSS, JavaScript, NodeJs y React. Tengo nivel de inglés B1
+I'm a self-taught developer with experience designing, delivering, and implementing data-driven web applications for clients. I'm familiar with technologies such as JavaScript, HTML, and CSS to design responsive web pages, write well-designed testable code, create website layouts, integrate data from back-end services, create and maintain software documentation, and cooperate with web designers.
